@@ -10,6 +10,9 @@ game related to music with a good rating.
 It can also answer basic question as well as have some fun features.
 
 Things you can ask :
+
 •About a game from a specific category
+
 •Ask about time
+
 •Ask about a fun fact
