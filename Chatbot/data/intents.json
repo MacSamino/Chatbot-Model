@@ -1,0 +1,96 @@
+{"intents" : [
+    {"tag" : "greetings",
+    "patterns": ["hi","hello","greetings","what's up","what's going on","hey","helo","wassup","hel","Hello bot","hi bot"],
+    "response": ["Hello! can I assist you today? ","Hey! looking for a game ?","What can I do For You","Hiya! :D"]},
+
+    {"tag": "goodbye",
+    "patterns": ["goodbye","See you","see you later","bye bye","peace","take care","nope","not really","nevermind","nothing","no thank you","goodbye bot","see you later bot"],
+    "response": ["Alright! Call me when you get lost","Alright see you later ! "," Ok take it easy!","Goodbye!","Nice chatting with you!"]},
+
+    {"tag" : "feel?",
+    "patterns": ["how you doin?", "how are you","are you good","How have you been","You all right","How is your day going"],
+    "response": ["I am doing great, how may I help you","I'm fine thank you. How may I assist you today","Im doing great, can I help you with something?"]},
+
+    {"tag" : "game",
+    "patterns" : ["Im looking for a game","i want to play games","i wanna do something fun","app that has games","wanna play something on my phone","looking for fun games","Do you have any good games?","what games you have?","Do you have any game reccomendations?","any reccomendation?","can you reccomend me a game"],
+    "response" :["Here are some game categories:"]},
+
+    {"tag" : "education",
+    "patterns": ["learning","educational games","i like to learn and play","i want to learn something","games with eduaction","elearning and education","i want to learn something new","train my brain ", "give me some brain teaser","give me some thing i can learn","I love education"],
+    "response": ["If you love to learn, you should definitely try  "]},
+
+    {"tag" : "music",
+    "patterns": ["music","games with music","i like musical games","something with songs","can i get an app with music","show me rythm games","music apps","musical apps", "games songs","show me a music game"],
+    "response": ["Here is a music app for you! Try "]},
+
+    {"tag" : "adventure",
+    "patterns": ["adventure","i like to explore ","games with story and adventure","where you can make characters","game where exploring the world","dicorvering new places","discovering weapons","adventuring in the world", "exploring environements","I wanna explore caves","a game that lets me travel","im more of an adventure guy","Show me adventure games"],
+    "response": ["Heres an app for the Adventurer. Try "]},
+
+    {"tag" : "simulation",
+    "patterns": ["i love simulation games","games that are like real like ","realistic games","simulation games with real","Life like games", "games that are like real life","games that simulate the real world","games that simulate","Show me simulation games"],
+    "response": ["Heres an app for the Simulation Enthusiast try  "]},
+
+    {"tag" : "role playing",
+    "patterns": ["i like to role play","find me a role playing game", "i like rpg games","turne based games where your role play ","Games with a great story and combat","RPG","games where you fight enemies","games where you fight monsters","killing zombies"],
+    "response": ["You might like this RPG app called  "]},
+
+    {"tag" : "casino",
+    "patterns": ["I like to gamble"," i wanna play some slots","I like to playy roulette","give me a game of chance","I have a gambling problem","Im feeling lucky","i wannna test my luck","play some casino","i love the casino"],
+    "response": ["Test your luck with this Casino app called  "]},
+
+    {"tag" : "card",
+    "patterns": ["Im a master at poker","i like card games","something like solitare","i lie games like blackjack","games like uno or poker","anything with cards"],
+    "response": ["So you like cards? Try this game out called  "]},
+
+    {"tag" : "board",
+    "patterns": ["I like board games","games like monopoly", "i like backgammon","i love games with dices","i like to play chess","checkers are my thing","show me boardgames"],
+    "response": ["For the board game master, try  "]},
+    
+    {"tag" : "strategy",
+    "patterns": ["I like strategy games","I like strategizing", "I am very strategic","i like planning attacks","im very strategic and plan","games with a bit of strategy"],
+    "response": ["For the master strategist, try "]},
+
+    {"tag" : "sports",
+    "patterns": ["im a sporty","I like sport games","I like athletic games","gimme games with balls","im an outdoor guy","i like playing soccer","basketball is life","game with sports","I like playing golf","Im a baseball fan"],
+    "response": ["For the sporty individual try "]},
+
+    {"tag" : "puzzle",
+    "patterns": ["i like puzzle games","i like games like candy crush","i like solving puzzles","i like games that need your brain","i like puzzle type games"],
+    "response": ["For the Puzzle solver try "]},
+
+    {"tag" : "racing",
+    "patterns": ["I like to race","i love racing games","I like speed and cars","i like race cars","games like need for speed","i like going fast"],
+    "response": ["For the speed demon try "]},
+
+    {"tag" : "casual",
+    "patterns": ["I dont want anything serious","a fun casual game","game that is fun an easy","simple casual game","some game thats more relax","Give me something addicting"],
+    "response": ["Casual gamer? try "]},
+
+    {"tag" : "action",
+    "patterns": ["games with a lot of action","game with explosion","Games with guns and violence","action pack games","games with alot happeneing"],
+    "response": ["for the action seeker try  "]},
+
+    {"tag" : "arcade",
+    "patterns": ["i like classic retro games","i like arcade games"," i like old games","i like simple retro game","i like vintage games"],
+    "response": ["For the arcade geek  "]},
+
+    {"tag" : "who?",
+    "patterns": ["Who created you?","who made your code?","who is your creator?","how can you talk to me?"],
+    "response": ["Mari Cunanan, a student from Concordia university created me. For more information on Mari Cunanan visit: https://www.linkedin.com/in/mari-cunanan/ or contact him via mac.samino@gmail.com "]},
+
+    {"tag" : "time",
+    "patterns": ["What time is it ? ","What is the current time?","what is time?","time?"],
+    "response": ["It is currently "]},
+
+    {"tag" : "fact",
+    "patterns": ["Can you tell em a fact?","do you ahve a fun fact?","tell me something interesting","Tell me something  fun","Whats is seomthing i dont know","Tell me something fun"],
+    "response": ["Did you know  "]}
+    
+    
+
+
+
+
+
+]}
